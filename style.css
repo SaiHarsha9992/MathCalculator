@@ -1,0 +1,201 @@
+body{
+    background-color:  whitesmoke;
+    background-size: cover;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.maindiv{
+    height: 680px;
+    width: 500px;
+    position: absolute;
+	top: 5%;
+	left: 35%;
+    background: whitesmoke;
+    border: 5px solid black;
+    box-shadow: 0 5px 50px 0 black inset, 0 5px 50px 0 black;
+}
+.module{
+    height: 500px;
+    width: 550px;
+    position: absolute;
+    top: 20%;
+    left: 35%;
+    background: black;
+}
+
+
+.delete{
+    height: 60px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 28%;
+    left: 5%;
+}
+.clearentry{
+    height: 60px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 28%;
+    left: 29%;
+}
+.clear{
+    height: 60px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 28%;
+    left: 52%;
+}
+.modulo{
+    height: 50px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 28%;
+    left: 75%;
+}
+.divided{
+    height: 50px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 37%;
+    left: 75%;
+}
+.seven{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 38%;
+    left: 5%;
+}
+.eight{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 38%;
+    left: 29%;
+}
+.nine{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 38%;
+    left: 52%;
+}
+.multi{
+    height: 50px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 46%;
+    left: 75%;
+}
+.four{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 51%;
+    left: 5%;
+}
+.five{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 51%;
+    left: 29%;
+}
+.six{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 51%;
+    left: 52%;
+}
+.subtract{
+    height: 50px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 55%;
+    left: 75%;
+}
+.one{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 64%;
+    left: 5%;
+}
+.two{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 64%;
+    left: 29%;
+}
+.three{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 64%;
+    left: 52%;
+}
+.add{
+    height: 50px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 64%;
+    left: 75%;
+}
+.doublezero{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 77%;
+    left: 5%;
+}
+
+.zero{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 77%;
+    left: 29%;
+}
+.fullstop{
+    height: 80px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 77%;
+    left: 52%;
+}
+.result{
+    height: 108px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+    top: 73%;
+    left: 75%;
+}
+
+
+.pressed{
+    border: 3px solid gold;
+}
