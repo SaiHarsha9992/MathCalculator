@@ -1,4 +1,4 @@
-//click on symbols in calc
+//click on symbols in calculator 
 
 $(".clear").click(function(){
     $(".clear").addClass("pressed");
